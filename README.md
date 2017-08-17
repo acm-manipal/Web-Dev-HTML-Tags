@@ -11,4 +11,4 @@ Task -
 1. Use basic tags like headings, paragraphs, dividers, title, body, etc.
 2. To implement ordered lists and unordered lists.
 3. Use image tags
-4. Make a Table with at least 3 thead tags, and a tbody which has values as "<td>" elements within "<tr>" tags
+4. Make a Table with at least 3 thead tags, and a tbody which has values as "table data (td)" elements within "table row (tr)" tags
